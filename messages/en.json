@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Let's Talk"
+  },
+  "footer": {
+    "tagline": "Design Beyond Boundaries",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "rights": "All rights reserved.",
+    "location": "New York, NY"
+  },
+  "hero": {
+    "badge": "Available for projects",
+    "title": "Design Beyond Boundaries",
+    "subtitle": "Creative web experiences that push the limits of digital craft.",
+    "cta_primary": "View Work",
+    "cta_secondary": "Get in Touch"
+  },
+  "work": {
+    "label": "Selected Work",
+    "title": "Projects that define the edge",
+    "cta": "View All Work"
+  },
+  "services": {
+    "label": "What I Do",
+    "title": "Full-spectrum creative services",
+    "subtitle": "From concept to launch, every pixel intentional."
+  },
+  "about": {
+    "label": "About",
+    "title": "Obsessed with craft",
+    "body": "I'm a creative designer and developer based in New York, building digital experiences that live at the intersection of art and technology.",
+    "cta": "Download Resume"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's build something extraordinary",
+    "subtitle": "Have a project in mind? I'd love to hear about it.",
+    "name_placeholder": "Your name",
+    "email_placeholder": "Your email",
+    "message_placeholder": "Tell me about your project...",
+    "submit": "Send Message",
+    "success": "Message sent. I'll be in touch soon."
+  }
+}
